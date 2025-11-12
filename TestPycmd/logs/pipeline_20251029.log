@@ -1,0 +1,50 @@
+INFO:root:Running crawl_bonbanh.py
+ERROR:root:crawl_bonbanh.py FAIL: Traceback (most recent call last):
+  File "C:\Users\HP\Desktop\DW\crawl_bonbanh.py", line 50, in <module>
+    print(f"\u0110ang t\u1ea3i trang {page}...")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u0110' in position 0: character maps to <undefined>
+
+INFO:root:Running crawl_bonbanh.py
+ERROR:root:crawl_bonbanh.py FAIL: Traceback (most recent call last):
+  File "C:\Users\HP\Desktop\DW\crawl_bonbanh.py", line 50, in <module>
+    print(f"\u0110ang t\u1ea3i trang {page}...")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u0110' in position 0: character maps to <undefined>
+
+INFO:root:Running crawl_bonbanh.py
+ERROR:root:crawl_bonbanh.py FAIL: Traceback (most recent call last):
+  File "C:\Users\HP\Desktop\DW\crawl_bonbanh.py", line 59, in <module>
+    print(f"\u0110ã l\u01b0u {len(all_cars)} xe \u2192 {csv_path}")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u0110' in position 0: character maps to <undefined>
+
+INFO:root:Running crawl_bonbanh.py
+ERROR:root:crawl_bonbanh.py FAIL: Traceback (most recent call last):
+  File "C:\Users\HP\Desktop\DW\crawl_bonbanh.py", line 59, in <module>
+    print(f"\u0110ã l\u01b0u {len(all_cars)} xe \u2192 {csv_path}")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u0110' in position 0: character maps to <undefined>
+
+INFO:root:Running crawl_bonbanh.py
+ERROR:root:crawl_bonbanh.py FAIL: Traceback (most recent call last):
+  File "C:\Users\HP\Desktop\DW\crawl_bonbanh.py", line 59, in <module>
+    print(f"\u0110ã l\u01b0u {len(all_cars)} xe \u2192 {csv_path}")
+    ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\HP\AppData\Local\Programs\Python\Python313\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u0110' in position 0: character maps to <undefined>
+
